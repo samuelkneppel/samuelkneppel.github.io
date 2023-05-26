@@ -1,4 +1,4 @@
-# username.github.io
+# samuelkneppel.github.io
 Welcome to the repository for my personal website! This site serves as a platform to showcase my expertise and accomplishments in the fields of IT and cybersecurity. From detailed walkthroughs of TryHackMe challenges to insights on setting up a vSphere environment in a home lab, you’ll find a diverse range of content that reflects my passion for technology.
 
 ## Technology
