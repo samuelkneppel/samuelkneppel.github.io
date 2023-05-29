@@ -4,6 +4,10 @@ title: About
 permalink: /about/
 ---
 
-# Sam Kneppel, CISSP
+# About Me
 
-As a Cyber Security Engineer with a CISSP certification and a BS in Information Technology from New Jersey Institute of Technology, I have gained valuable experience and knowledge in the field of cyber security. My tenure as a Senior Security Analyst at Everest in Warren, NJ has provided me with skills in intrusion detection, threat mitigation, incident response, and threat hunting. I have successfully recognized and mitigated potential intrusion attempts and contained identified threats using approved incident response methodologies. I have also been involved in implementing security policy changes and conducting malware analysis. One of my key projects was migrating over 3700 end-user Windows devices from McAfee Endpoint Security to Windows Defender. I have experience with AWS, Azure, McAfee Endpoint Security, Microsoft SCCM, and Windows Defender for Endpoint. In addition to my technical skills, I am a strong leader and communicator, having provided mentorship to junior analysts and worked closely with cross-functional teams within Cybersecurity. I am dedicated to continuously learning and improving my skills to provide top-notch cyber security solutions.
+As a CISSP-certified Senior Security Analyst, I am passionate about using my expertise in threat mitigation and incident response to make a positive impact in the field of cybersecurity. My strong analytical skills, combined with my ability to think outside the box, have enabled me to successfully tackle complex security challenges and protect my clients’ data and systems. I am constantly seeking new opportunities to learn and grow, and I am committed to staying at the forefront of the ever-evolving field of cybersecurity.
+
+# About This Blog
+
+This personal blog serves as a platform for sharing my knowledge and expertise in the fields of IT engineering and cybersecurity. My content includes in-depth CTF walkthroughs, detailed analyses of threats and malware, and comprehensive guides on setting up technology in a lab environment. My target audience comprises both established and aspiring professionals in the cybersecurity and IT engineering industries. What distinguishes my blog is my unique perspective and personal approach to these subjects. Join me as I explore the ever-evolving landscape of IT engineering and cybersecurity.
